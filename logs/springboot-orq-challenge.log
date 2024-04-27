@@ -1,0 +1,6 @@
+2024-04-27 01:32:11,213 INFO o.s.b.StartupInfoLogger [restartedMain] Starting SpringbootOrqChallengeApplication using Java 17.0.10 with PID 22924 (C:\Users\User\Proyectos JAVA\Reto Tecnico\springboot-orq-challenge\target\classes started by User in C:\Users\User\Proyectos JAVA\Reto Tecnico\springboot-orq-challenge)
+2024-04-27 01:32:11,216 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v3.1.11, Spring v6.0.19
+2024-04-27 01:32:11,217 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-27 01:32:12,591 INFO o.s.b.StartupInfoLogger [restartedMain] Started SpringbootOrqChallengeApplication in 1.675 seconds (process running for 2.46)
+2024-04-27 01:33:55,870 ERROR c.e.s.o.s.i.DominioServiceImpl [http-nio-8082-exec-2] Error al comunicarse con el API dominio: Error while extracting response for type [class java.lang.String] and content type [application/json]
+2024-04-27 01:36:25,058 ERROR c.e.s.o.e.GlobalExceptionHandler [http-nio-8082-exec-9] Error no controlado: JSON parse error: Unexpected character ('}' (code 125)): expected a value
